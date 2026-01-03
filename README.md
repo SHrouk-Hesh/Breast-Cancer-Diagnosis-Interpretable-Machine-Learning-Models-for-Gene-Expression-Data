@@ -11,7 +11,7 @@ Several baseline and tree-based models are implemented and compared—Logistic R
 
 <img width="821" height="730" alt="image" src="https://github.com/user-attachments/assets/16eee012-0c9d-4a02-8e21-1ee3002f04ee" />
 
-<img width="295" height="203" alt="image" src="https://github.com/user-attachments/assets/447a9233-9cbf-4944-9a29-d359cec553b3" />
+
 <img width="304" height="123" alt="image" src="https://github.com/user-attachments/assets/2a836400-202e-41cd-9925-3c570a54ca78" />
 <img width="313" height="122" alt="image" src="https://github.com/user-attachments/assets/f69d01c4-40ce-46f1-b40d-d8b2ee7fe349" />
 
